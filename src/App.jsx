@@ -1,4 +1,4 @@
-import landing from "./pages/landing"
+import Landing from "./pages/landing"
 function App() {
   return <div>App Started....</div>
 }

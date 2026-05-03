@@ -1,11 +1,9 @@
 import React from 'react'
 
-function landing() {
+function Landing() {
   return (
-    <div>
-        <>hellonp</>
-    </div>
+    <div>landing</div>
   )
 }
 
-export default landing
+export default Landing

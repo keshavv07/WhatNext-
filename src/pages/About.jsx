@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const techCards = [
   { icon: '⚛️', name: 'React 18', desc: 'Declarative functional components and state-based navigation for a fast, modern user experience.' },
   { icon: '⚡', name: 'Vite', desc: 'Ultra-fast frontend tooling and build optimization ensuring near-instantaneous page transitions.' },

@@ -5,6 +5,7 @@ function Footer() {
     <footer className="footer-container">
       <div className="footer-content">
         <div className="footer-left">
+          
           <span className="font-bold">WhatNext?</span> © 2026 All rights reserved.
         </div>
         

@@ -4,6 +4,8 @@ import { combinations } from '../data/combinations';
 import Footer from '../components/Footer';
 import ResultsView from '../components/ResultsView';
 
+
+
 const levelCards = [
   { id: 'school',        icon: '🎓', title: 'School',        subtitle: '11th & 12th Grade',  desc: 'Planning for college degrees.' },
   { id: 'undergraduate', icon: '🏢', title: 'Junior College', subtitle: 'Bachelors Degree',   desc: 'Specializing for careers.' },

@@ -1,6 +1,7 @@
 export const subjectsData = {
   school: [
     { id: 'physics', name: 'Physics', type: 'blue' },
+    
     { id: 'chemistry', name: 'Chemistry', type: 'blue' },
     { id: 'mathematics', name: 'Mathematics', type: 'blue' },
     { id: 'biology', name: 'Biology', type: 'blue' },

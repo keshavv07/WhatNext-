@@ -3,6 +3,7 @@ export const combinations = [
   // School Combinations (10)
   {
     id: 'pcm',
+    
     level: 'school',
     subjects: ['physics', 'chemistry', 'mathematics'],
     label: 'PCM',
